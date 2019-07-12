@@ -1,0 +1,142 @@
+ header{
+    
+
+}
+.container{
+
+    margin: 0 auto;
+    overflow: hidden;
+    
+    width: 1520px;
+    background: #f5f5f4;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    text-align: center;
+}
+.lorem p{
+  margin: 0 auto;
+    overflow: hidden;
+    
+    width: 600px;
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 40px;
+    text-align: left;   
+}
+.orem{
+   margin: 0 auto;
+    overflow: hidden;
+    
+    width: 600px; 
+}
+.orem p{
+ margin-bottom: 60px;
+  text-align: left;
+}
+.orem h1{
+    
+ margin-bottom: 20px;
+ text-align: left;
+}
+.container h2{
+  padding-right: 500px;
+  font-size: 30px;
+  color: #94ddf4;
+  margin-bottom: 20px;
+}
+.banner-content a{
+    font-size: 25px;
+    color: #ffffff;
+    text-decoration: none;
+    border: 1px solid #15a4fa;
+    padding: 18px 35px;
+    display: inline-block;
+    margin-top: 30px;
+    border-radius: 5px;
+    transition: all 0.4s;
+    background-color: #15a4fa;
+    width: 20%;
+    margin-bottom: 50px;
+}
+.banner-content a:hover{
+    background-color: #15a4fa;
+}
+.ontainer{
+     margin: 0px auto;
+    overflow: hidden;
+    font-size: 30px;
+    width: 1520px;
+    background: #373737;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    text-align: center;
+    color: #65d4f4;
+    text-transform: uppercase;
+}
+.ntainer{
+     margin: 0px auto;
+    overflow: hidden;
+    font-size:15px;
+    width: 1520px;
+    background: #464646;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    text-align: center;
+   color: #f2f2f2;
+   
+}
+
+.logo{
+	padding-top: 20px;
+    width:20%;
+    float: left;
+    display: block;
+    text-align: left;
+}
+nav{
+    width: 80%;
+    float:left;
+    padding-top: 85px;
+}
+nav ul{
+    text-align: right;
+}
+nav ul li{
+    list-style: none;
+    display:inline-block;
+}
+nav ul li a{
+
+font-family: "durusans", Georgia, Serif;    font-size: 14px;
+    color:#8e8e8e;
+    font-weight: 100;
+    text-decoration: uppercase;
+    padding: 2px 0px;
+    display: block;
+    margin-left: 25px;
+    text-transform: uppercase;
+
+}
+nav ul li a:hover{
+    color: blue;
+}	
+.banner h1{
+	padding-bottom: 40px;
+font-family: durusans;
+font-size: 50px;
+color: #8bddf4;
+  }	
+.banner1 h2{
+	color: #191919;
+	font-size: 20px;
+	font-family: durusans;
+}
